@@ -1,6 +1,5 @@
 'use strict';
-// <button id="btn-crear-imagen">Crear Imagen</button>
-		// <div id="cont-img"></div>
+
 const btnTomarFoto = document.getElementById('btn-crear-imagen');
 const divContenedorImagen = document.getElementById('cont-img');
 const main = document.getElementById('main');
